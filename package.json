@@ -1,0 +1,21 @@
+{
+  "name": "meetup-ai-and-em",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@ekino/slidev-theme-ekino": "^1.2.0",
+    "@slidev/cli": "^52.2.4",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "prettier-plugin-slidev": "^1.0.5"
+  }
+}
