@@ -39,7 +39,7 @@ mdc: true
 
 <v-clicks>
 
-- L'IA fait désormais partie du quotidien : ChatGPT, Claude, Gemini, Mistral...
+- L'IA fait désormais partie du quotidien : ChatGPT, Claude, Gemini, Mistral, Perplexity ...
 - Les usages explosent, y compris dans le monde professionnel.
 - [Danger du « Shadow AI »](https://siecledigital.fr/2025/06/20/shadow-ai-un-salarie-sur-trois-utilise-lia-sans-en-parler-a-sa-direction/) : utilisation d'outils via des comptes personnels.
 - Risque majeur de fuites de données sensibles non maîtrisées.
@@ -59,8 +59,8 @@ mdc: true
 <v-clicks>
 
 - D'après le [Shift Project (octobre 2025)](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf) : la croissance de l'IA menace les objectifs climatiques.
-- Les data centers sont passés de 165 TWh (2014) à 420 TWh (2024)
-- L'IA représente déjà 15% de la consommation énergétique mondiale des serveurs et pourrait attendre 35% en 2030 (1 500 TWh/an).
+- La consommation énergétique mondiale des data centers est passée de 165 TWh (2014) à 420 TWh (2024) 📈
+- L'IA représente déjà 15% de cette consommation et pourrait attendre **35%** en 2030 (1 500 TWh/an).
 - Une large part repose encore sur des sources fossiles.
 - Utiliser l'IA, c'est aussi penser sobriété numérique et mesurer son impact environnemental.
 
@@ -174,7 +174,7 @@ L'IA est-elle un levier pour rester hands-on malgré le passage au management 
 
 <div class="bg-yellow-50 rounded-xl p-8 shadow-lg border-2 border-yellow-200">
 
-L’IA est-elle un levier pour un management plus humain ?
+L'IA est-elle un levier pour un management plus humain ?
 
 </div>
 
@@ -317,37 +317,35 @@ Comment gagner en efficacité pour me concentrer sur le fond ?
 
 ---
 
-# Côté Management : IA & cérémonies agiles
+# Côté Management
 
-### L'IA comme assistant quotidien pour l'animation des cérémonies
+<div class="flex gap-8">
+<div>
 
-<br/>
+L'IA comme assistant pour l'animation des cérémonies agiles
 
-- 💡 Idées d'icebreakers créatifs et personnalisés
+- Idées d'icebreakers créatifs et **personnalisés**
 - 🎨 Génération de visuels sur un thème spécifique pour dynamiser les réunions 
-- 🎯 Formats de rétrospectives originaux et adaptés aux situations
+- Formats de rétrospectives originaux et adaptés aux situations
 
-<br/>
+</div>
+<div>
+  <div class="flex items-center justify-center">
+    <img src="/pa-tdf.png" class="max-w-[150px] w-full h-auto" alt="Screencast" />
+  </div>
+</div>
+</div>
 
-### Pour la veille technique :
+Progression des équipes et engagement
 
-<br/>
-
-- 📄 Résumés d'articles techniques avec points essentiels à retenir
-- 🎯 Synthèses attractives pour partager avec l'équipe et stimuler la lecture
-
-<br />
-
-Gain : Économie de temps significative sur les tâches préparatoires
-Bénéfice : Impact positif sur l'engagement et la dynamique d'équipe
+- Résumés d'articles techniques avec points essentiels à retenir
+- Synthèses **attractives** pour partager avec l'équipe et stimuler la lecture
 
 ---
 
-# Côté Management : IA & coaching d'équipe
+# Côté Management
 
-### L'IA comme assistant pour le développement des collaborateurs :
-
-<br/>
+Développement de carrière assisté par IA
 
 - Aide à la rédaction d'OKR et plans de développement personnalisés
 - Suggestions de progression adaptées aux différents niveaux (L2, L3, Staff...)
@@ -356,44 +354,33 @@ Bénéfice : Impact positif sur l'engagement et la dynamique d'équipe
 
 <br />
 
-> _"Éviter les tirs gratuits quand on est énervé"_
+> L'IA permet également d'éviter les tirs gratuits quand on est énervé
 
 ---
+layout: image
 
-# Apprentissages clés 🎓
+# the image source
+image: /manager-vibe-coding.png
 
+---
+---
 
-Attention à l'addiction.  
-Attention à la planète
+# Ce qu'il faut retenir
 
-Quid des soft skills 
+<v-clicks>
 
-<div class="grid grid-cols-2 gap-12">
+L’IA, levier pour rester hands-on malgré le passage au management
+- Accélère l’exploration de nouvelles stacks et outils.
+- Accélère la revue de code, la génération de spécifications et facilite l’onboarding des projets.
+- Facilite la création rapide de prototypes et la réalisation de side projects
 
-<div>
+L’IA, levier pour un management plus humain
+- Permet de gagner du temps sur les fonctions à faible valeur ajoutée (rédaction, reformulation, synthèse), pour mieux se concentrer sur l’humain, l’accompagnement 
+- Offre des idées personnalisées pour animer les équipes (icebreakers, rétrospectives).
+- Accélère la définition de plans de développement et OKR personnalisés.
+- Ne remplace pas les soft skills (écoute active, intuition, relation humaine, leadership, empathie)
 
-### Côté Tech Lead
-
-- 🚀 **Prototypage ultra-rapide**
-- 🔍 **Découverte de stacks** complètes
-- 🏗️ **Architecture overview** générée
-- 💡 **Opportunités business** identifiées
-
-</div>
-
-<div>
-
-### Côté Management
-
-- 🎯 **Focus sur le fond** vs la forme
-- ⏱️ **Gain de temps** significatif
-- 💭 **Idéation accélérée**
-- 🚀 **Onboarding projet** facilité
-
-</div>
-
-</div>
-
+</v-clicks>
 
 ---
 
