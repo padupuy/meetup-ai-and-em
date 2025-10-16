@@ -103,7 +103,7 @@ mdc: true
 
 <div class="mt-8 text-center text-gray-600 text-lg">
 
-_Un rôle qui nécessite de jongler entre plusieurs responsabilités_
+_Réunions avec plein de ssssss_
 
 </div>
 
@@ -197,7 +197,7 @@ L'IA est-elle un levier pour un management plus humain ?
 
 <div class="mt-8 text-center text-gray-600 text-lg">
 
-Comment rester à jour sur les nouveautés technologiques ?
+_Parfait, il me reste 30mn pour coder aujourd'hui_
 
 </div>
 
@@ -223,9 +223,9 @@ class: pr-8
 
 🤖 Workflow de développement
 
-1. 🎨 **Design complet** généré via bolt.new
-2. 💻 **Polissage** avec VS Code + Copilot + Agent Claude Sonnet
-3. 🚀 **CI/CD** GitHub Actions → déploiement OVH
+1. 🎨 Design + scaffolding complet généré via [bolt.new](https://bolt.new/)
+2. 💻 Polissage avec VS Code + Copilot + Agent Claude Sonnet + 🙋‍♂️
+3. 🚀 CI/CD GitHub Actions → déploiement OVH
 
 ---
 layout: image-right
@@ -243,7 +243,7 @@ class: pr-8
 
 - 🚀 Découverte de Astro
 - ⏱️ Site créé en **moins d'une semaine**
-- 🎨 Design professionnel sans compétences design
+- 🎨 Design professionnel **sans compétences** design
 - 🏆 Score Lighthouse excellent
 - 🔄 Pipeline de déploiement automatisé
 
@@ -309,7 +309,7 @@ Côté DX
 
 <div class="mt-8 text-center text-gray-600 text-lg">
 
-Comment gagner en efficacité pour me concentrer sur le fond ?
+Le gros du boulot
 
 </div>
 
