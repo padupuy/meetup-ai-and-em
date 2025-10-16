@@ -25,11 +25,15 @@ mdc: true
   <p>📬 pierre-alexandre.dupuy@ekino.com</p>
 </SpeakerCard>
 
+::logo::
+
+<img src="/best.jpg" alt="BEST logo" style="width: 100px" />
+
 ---
 
 # Contexte : l'IA omniprésente mais risquée
 
-> _"Avant de plonger dans mes usages concrets de l'IA, il est crucial de rappeler les enjeux liés à sa popularisation rapide."_
+> Avant de plonger dans mes usages concrets de l'IA, il est crucial de rappeler les enjeux liés à sa popularisation rapide.
 
 <br />
 
@@ -39,7 +43,7 @@ mdc: true
 - Les usages explosent, y compris dans le monde professionnel.
 - [Danger du « Shadow AI »](https://siecledigital.fr/2025/06/20/shadow-ai-un-salarie-sur-trois-utilise-lia-sans-en-parler-a-sa-direction/) : utilisation d'outils via des comptes personnels.
 - Risque majeur de fuites de données sensibles non maîtrisées.
-- Bonnes pratiques : privilégier les comptes enterprise ou internes (confidentialité, RGPD, aucun réentraînement sur vos données).
+- Bonnes pratiques : privilégier [les comptes entreprise](https://learn.microsoft.com/en-us/copilot/microsoft-365/enterprise-data-protection) 🛡️ ou internes (confidentialité, RGPD, aucun réentraînement sur vos données).
 - L'IA doit être testée sur des side projects, jamais sur des projets clients.
 
 </v-clicks>
@@ -48,15 +52,15 @@ mdc: true
 
 # Impact écologique : un coût invisible
 
-> _"L'essor de l'IA a un impact environnemental considérable, souvent méconnu, qu'il est indispensable d'intégrer dans notre réflexion."_
+> L'essor de l'IA a un impact environnemental considérable, souvent méconnu, qu'il est indispensable d'intégrer dans notre réflexion.
 
 <br />
 
 <v-clicks>
 
 - D'après le [Shift Project (octobre 2025)](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf) : la croissance de l'IA menace les objectifs climatiques.
-- Les data centers sont passés de 165 TWh (2014) à 420 TWh (2024), et pourraient atteindre 1 500 TWh/an d'ici 2030.
-- L'IA représente déjà 15 % de la consommation énergétique mondiale des serveurs.
+- Les data centers sont passés de 165 TWh (2014) à 420 TWh (2024)
+- L'IA représente déjà 15% de la consommation énergétique mondiale des serveurs et pourrait attendre 35% en 2030 (1 500 TWh/an).
 - Une large part repose encore sur des sources fossiles.
 - Utiliser l'IA, c'est aussi penser sobriété numérique et mesurer son impact environnemental.
 
@@ -67,26 +71,19 @@ mdc: true
 # Qui suis-je ?
 
 <div class="grid grid-cols-2 gap-12 items-center">
-
 <div>
 
 ## Pierre-Alexandre Dupuy
 
-- 👨‍💻 **35 ans**, 15 ans dans le web
-- 🚀 **Lead chez ekino** (30% EM, 70% Tech Lead)
-- 👨‍👧‍👧 Papa de 2 filles
-- 🚴 Vélotafeur convaincu
-- ⏰ Partisan de la semaine à 4/5ème
-
-
-
+- 35 ans, 15 ans dans le web
+- Lead chez ekino 
+- Papa de 2 filles 
+- Vélotafeur convaincu
+- Partisan de la semaine à 4/5ème
 
 </div>
-
 <div class="flex justify-center flex-col gap-4">
-
-<img src="/illustration-pierre-alexandre-dupuy.png" class="rounded-full w-80 h-80 object-cover shadow-xl" />
-
+  <img src="/illustration-pierre-alexandre-dupuy.png" class="rounded-full w-80 h-80 object-cover" />
 </div>
 </div>
 
@@ -106,62 +103,89 @@ mdc: true
 
 <div class="mt-8 text-center text-gray-600 text-lg">
 
-_Un rôle aux multiples facettes qui nécessite de jongler entre plusieurs responsabilités_
+_Un rôle qui nécessite de jongler entre plusieurs responsabilités_
 
 </div>
 
 </div>
 
 ---
+layout: two-cols-header
+---
 
-# Le défi permanent : rester technique
+# Définition du rôle de EM
 
-<div class="grid grid-cols-2 gap-8">
-
-<div>
-
-### Comment rester "hands-on" ? 🤔
-
-<br />
+::left::
 
 Selon les entreprises, le rôle varie :
 
 - **Hands-off** : Management pur
 - **Hands-on** : Management + technique
 
-<br />
+::right::
 
-### Chez ekino : rôle hybride "Lead"
+<v-clicks>
 
-- 30% Engineering Management
+Chez ekino : rôle hybride "Lead"
+
+- 30% Management
 - 70% Tech Lead
   - dont 80% de revue de code 😁
 
-</div>
+</v-clicks>
 
-<div class="flex items-center justify-center">
+<style>
+.two-cols-header {
+  column-gap: 20px; /* Adjust the gap size as needed */
+}
+</style>
+
+---
+layout: two-cols-header
+---
+
+# Minute philosophique
+
+On va essayer de répondre à 2 questions
+
+::left::
+
+### Côté tech lead : 
+
+<br /> 
+
+<v-clicks>
 
 <div class="bg-yellow-50 rounded-xl p-8 shadow-lg border-2 border-yellow-200">
 
-### 💡 La solution ?
-
-<br />
-
-**L'IA comme assistant** pour :
-
-- ⏱️ Gagner du temps sur les tâches managériales
-- 🔧 Rester technique et productif
-- 🎯 Se concentrer sur l'essentiel
-
-<br />
-
-_→ L'IA permet de maintenir l'équilibre entre management et technique_
+L'IA est-elle un levier pour rester hands-on malgré le passage au management ?
 
 </div>
 
-</div>
+</v-clicks>
+
+::right::
+
+### Côté management : 
+
+<br /> 
+
+<v-clicks>
+
+<div class="bg-yellow-50 rounded-xl p-8 shadow-lg border-2 border-yellow-200">
+
+L’IA est-elle un levier pour un management plus humain ?
 
 </div>
+
+</v-clicks>
+
+
+<style>
+.two-cols-header {
+  column-gap: 20px; /* Adjust the gap size as needed */
+}
+</style>
 
 ---
 
@@ -180,47 +204,44 @@ Comment rester à jour sur les nouveautés technologiques ?
 </div>
 
 ---
+layout: image-right
 
-# Côté tech lead - Découverte d'Astro 🚀
+# the image source
+image: /david-alexandre-homepage2.png
 
-<div class="grid grid-cols-2 gap-8">
+# a custom class name to the content
+class: pr-8
+---
 
-<div>
-
-### Le projet : alexandre-avocat.com
+# Côté tech lead - Astro 🚀
 
 **Contexte :** Un site pour un ami avocat
 
-**Stack découverte :** [Astro](https://astro.build/) - totalement nouveau pour moi
+**Stack :** [Astro](https://astro.build/)
 
 <br />
 
-### Workflow de développement
+🤖 Workflow de développement
 
 1. 🎨 **Design complet** généré via bolt.new
 2. 💻 **Polissage** avec VS Code + Copilot + Agent Claude Sonnet
 3. 🚀 **CI/CD** GitHub Actions → déploiement OVH
 
-</div>
+---
+layout: image-right
 
-<div class="flex items-center justify-center">
+# the image source
+image: /david-alexandre-lighthouse2.png
 
-<img src="/david-alexandre-homepage.png" class="w-full h-auto" alt="alexandre-avocat.com homepage" />
-
-</div>
-
-</div>
-
+# a custom class name to the content
+class: pr-8
 ---
 
-# Côté tech lead - Résultats : Performance & Design
-
-<div class="grid grid-cols-2 gap-8">
-
-<div>
+# Côté tech lead - Astro 🚀
 
 ### Réalisations
 
+- 🚀 Découverte de Astro
 - ⏱️ Site créé en **moins d'une semaine**
 - 🎨 Design professionnel sans compétences design
 - 🏆 Score Lighthouse excellent
@@ -228,73 +249,43 @@ Comment rester à jour sur les nouveautés technologiques ?
 
 <br />
 
-### Impact personnel
-
-> _"Ce projet m'a permis de faire quelque chose d'impossible avant : créer un site avec un design pro sans compétences en design, et sans temps pour les side projects"_
-
-</div>
-
-<div class="flex items-center justify-center">
-
-<img src="/david-alexandre-lighthouse.png" class="w-full h-auto" alt="Lighthouse performance scores" />
-
-</div>
-
-</div>
+> En tant que papa je n'ai plus de temps pour faire des side projects.  
+> Grâce à l'IA j'ai pu aller au bout de mon idée très rapidement et sans y consacrer trop de charge mentale.  
+> J'ai vu un cas concret de projet simple produit avec Astro
 
 ---
 
-# Côté tech lead - Python & Whisper : Sous-titrage vidéo 🎬
+# Côté tech lead - Python
 
 <div class="grid grid-cols-2 gap-8">
 
 <div>
 
-### Le besoin initial
+**Contexte :** Ajout de sous-titres à mes vidéos produit
 
-Ajouter des sous-titres à mes démos produit avec incrustation de ma tête
+**Stack :** Python & co
 
 <br />
 
-### Technologies découvertes
+🤖 Workflow de développement
 
-- **FFmpeg** - Manipulation vidéo
-- **Whisper** (OpenAI) - Transcription IA
-- **Python** - Orchestration
-- Export **SRT** ou sous-titres incrustés
+1. 📹 Extraction audio de la vidéo avec **FFmpeg**
+2. 🎯 Transcription avec **Whisper** (OpenAI)
+3. 🙊 Analyse des mots de remplissage (euhhh, humm, en fait) avec **Pydub**
+4. 📝 Export **SRT** ou incrustation
 
 </div>
 
 <div class="flex items-center justify-center">
-
-<div class="bg-indigo-50 rounded-xl p-8 shadow-lg border-2 border-indigo-200">
-
-### 🤖 Le process
-
-1. 📹 Extraction audio de la vidéo
-2. 🎯 Transcription avec Whisper
-3. ⏱️ Génération des timecodes
-4. 📝 Export SRT ou incrustation
-
-<br />
-
-_Stack totalement nouvelle pour moi !_
-
+  <img src="/screencast-ekino.png" class="w-full h-auto" alt="Screencast" />
 </div>
-
-</div>
-
 </div>
 
 ---
 
-# Côté tech lead - Industrialisation & Évolutions 🛠️
+# Côté tech lead - Python
 
-<div class="grid grid-cols-2 gap-8">
-
-<div>
-
-### Professionnalisation du projet
+Côté DX
 
 - 🐳 **Docker** - Conteneurisation
 - 📦 **Poetry** - Gestion des dépendances
@@ -304,31 +295,9 @@ _Stack totalement nouvelle pour moi !_
 
 <br />
 
-> _"Apprentissage express d'un écosystème totalement inconnu"_
-
-</div>
-
-<div>
-
-### Évolutions futures
-
-- 🎵 Intégration **pydub** pour gestion audio avancée
-- 📢 **FFmpeg 8.0 "Huffman"** (août 2025) : support natif de Whisper !
-- 🖥️ Ajout d'une **Web UI** pour modifier les ajuster les sous titres
-- 💌 Analyze de **sentiment** pour éliminer les passages négatifs
-
-<br />
-
-### Impact
-
-L'IA m'a permis de :
-- Découvrir Python moderne
-- Comprendre l'écosystème (Poetry, Ruff, etc.)
-- Produire un outil fonctionnel rapidement
-
-</div>
-
-</div>
+> Apprentissage express d'un écosystème totalement inconnu.  
+> Application de l'industrialisation du frontend à la stack Python.  
+> Sentiment de puissance grâce au Vibe Coding qui permet de coder dans un langage inconnu
 
 ---
 
@@ -393,6 +362,12 @@ Bénéfice : Impact positif sur l'engagement et la dynamique d'équipe
 
 # Apprentissages clés 🎓
 
+
+Attention à l'addiction.  
+Attention à la planète
+
+Quid des soft skills 
+
 <div class="grid grid-cols-2 gap-12">
 
 <div>
@@ -419,17 +394,6 @@ Bénéfice : Impact positif sur l'engagement et la dynamique d'équipe
 
 </div>
 
-<br />
-
-### Le vrai game-changer
-
-<div class="text-center mt-8 p-6 bg-yellow-50 rounded-xl">
-
-> _"L'IA comme assistant d'idéation en version extrêmement rapide :_
->
-> _Je mets mes idées en vrac → J'affine → Je démarre"_
-
-</div>
 
 ---
 
