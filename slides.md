@@ -331,30 +331,30 @@ L'IA comme assistant pour l'animation des cérémonies agiles
 </div>
 <div>
   <div class="flex items-center justify-center">
-    <img src="/pa-tdf.png" class="max-w-[150px] w-full h-auto" alt="Screencast" />
+    <img src="/pa-tdf.png" class="max-w-[300px] w-full h-auto" alt="Screencast" />
   </div>
+
+  <br />
+  
+  > P-A Virenque
 </div>
 </div>
+
+
+
+---
+
+# Côté Management
 
 Progression des équipes et engagement
 
 - Résumés d'articles techniques avec points essentiels à retenir
 - Synthèses **attractives** pour partager avec l'équipe et stimuler la lecture
 
----
-
-# Côté Management
-
 Développement de carrière assisté par IA
 
 - Aide à la rédaction d'OKR et plans de développement personnalisés
 - Suggestions de progression adaptées aux différents niveaux (L2, L3, Staff...)
-- Reformulation d'e-mails professionnels et bilans d'évaluation annuelle
-- Brouillon créatif pour structurer les idées rapidement et accélérer l'idéation
-
-<br />
-
-> L'IA permet également d'éviter les tirs gratuits quand on est énervé
 
 ---
 layout: image
